@@ -3,5 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/qz-ui.iml" filepath="$PROJECT_DIR$/.idea/qz-ui.iml" />
+    </modules>
   </component>
 </project>
