@@ -1,0 +1,27 @@
+{
+  "name": "qz-ui",
+  "version": "1.0.0",
+  "description": "vue components",
+  "main": "vue.config.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "lib": "vue-cli-service build --target lib --name qz-ui --dest lib packages/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QinZhen001/qz-ui.git"
+  },
+  "keywords": [
+    "ui",
+    "vue"
+  ],
+  "author": "qz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QinZhen001/qz-ui/issues"
+  },
+  "homepage": "https://github.com/QinZhen001/qz-ui#readme"
+}
