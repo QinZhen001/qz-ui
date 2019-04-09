@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/QinZhen001/qz-ui/issues"
   },
-  "homepage": "https://github.com/QinZhen001/qz-ui#readme"
+  "homepage": "https://github.com/QinZhen001/qz-ui#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
