@@ -1,3 +1,10 @@
-/**
- * Created by qinzhen on 2019/3/22.
- */
+import ColorPicker from "./src/color-picker"
+
+
+ColorPicker.install = function (Vue) {
+  Vue.component(ColorPicker.name, ColorPicker)
+}
+
+
+
+export default ColorPicker;
